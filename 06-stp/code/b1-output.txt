@@ -1,0 +1,7 @@
+DEBUG: find the following interfaces:  b1-eth0 b1-eth1.
+DEBUG: received SIGTERM, terminate this program.
+INFO: this switch is root.
+INFO: port id: 01, role: DESIGNATED.
+INFO: 	designated ->root: 0101, ->switch: 0101, ->port: 01, ->cost: 2.
+INFO: port id: 02, role: ROOT.
+INFO: 	designated ->root: 0101, ->switch: 0301, ->port: 01, ->cost: 1.
